@@ -17,5 +17,5 @@ Staff Software Engineer at **[@DataRobot](https://github.com/datarobot)**, based
 
 ## 📫 Let's Connect
 
-- 📧 Email: andrii.kislitsyn@datarobot.com
+- 📧 Email: andrii.kislitsyn@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/andrii-kislitsyn](https://www.linkedin.com/in/andrii-kislitsyn)
