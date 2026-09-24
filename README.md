@@ -1,13 +1,13 @@
 # Hi, I'm Andrii 👋
 
-Staff Software Engineer at **[@DataRobot](https://github.com/datarobot)**, based in Kyiv. I care about the software delivery process as much as the software itself, so a lot of my work ends up being CI/CD pipelines, developer tooling, and infrastructure as code that make everyone else's day-to-day shipping faster and less painful.
+Staff Software Engineer at **[@DataRobot](https://github.com/datarobot)**, based in Kyiv, working on Solutions Labs. I build applications with customers and partners on the newest parts of the platform, usually the parts that still have sharp edges. I care about the delivery process as much as the software itself, so plenty of my work still ends up in pipelines, tooling, and infrastructure as code.
 
 ## 🔧 Current Focus
 
-- **Developer Experience**: building automation and tooling that removes friction from everyday engineering work
-- **CI/CD Pipelines**: designing pipelines and GitHub Actions that keep releases fast and reliable
-- **Infrastructure as Code**: Pulumi and Terraform for provisioning and managing cloud resources
-- **Testing & Quality**: building testing frameworks and catching regressions before they ship
+- **Agentic Applications**: building AI agents and the applications around them, alongside the people who will run them
+- **Platform & Runtime**: Kubernetes, autoscaling, and the serving layer that decides whether any of it stays up
+- **Reusable Assets**: turning one-off project work into components and templates the next team starts from
+- **Developer Experience**: CI/CD, GitHub Actions, and Pulumi/Terraform that keep the path from commit to running system short
 
 ## 🛠️ Recent Projects
 
