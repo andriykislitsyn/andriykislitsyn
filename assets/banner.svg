@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320">
+<rect width="1280" height="320" fill="#0d1117"></rect>
+<svg x="540" y="40" width="200" height="240" viewBox="0 0 200 240">
+<defs><mask id="s" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="240"><g stroke="#fff" stroke-width="11" stroke-linecap="round"><line x1="46" y1="44" x2="46" y2="196"></line><line x1="62" y1="44" x2="62" y2="196"></line></g></mask>
+<mask id="l" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="240"><g fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"><path stroke-linecap="butt" d="M74 106 H108 A20 20 0 0 0 128 86 V64 A19 19 0 0 1 160.4 50.6 L168 58"></path><path d="M74 106 H108 A20 20 0 0 0 128 86 V64 A19 19 0 0 1 160.4 50.6 L168 58" transform="translate(0 240) scale(1 -1)"></path></g><rect x="72" y="117" width="62" height="6" fill="#000"></rect></mask></defs>
+<rect width="200" height="240" fill="#FFFFFF" mask="url(#s)"></rect><rect width="200" height="240" fill="oklch(0.7179 0.1312 277.26)" mask="url(#l)"></rect>
+</svg>
+</svg>
