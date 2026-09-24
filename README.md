@@ -1,6 +1,6 @@
 ![](assets/banner.svg)
 
-# Hi, I'm Andrii 👋
+<h2 align="center">Hi, I'm Andrii 👋</h1>
 
 Staff Software Engineer at **[@DataRobot](https://github.com/datarobot)**, based in Kyiv. I care about the software delivery process as much as the software itself, so a lot of my work ends up being CI/CD pipelines, developer tooling, and infrastructure as code that make everyone else's day-to-day shipping faster and less painful.
 
