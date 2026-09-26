@@ -11,10 +11,11 @@ Staff Software Engineer @ **[DataRobot](https://github.com/datarobot)**, based i
 - **CI/CD Pipelines**: designing pipelines and GitHub Actions that keep releases fast and reliable
 - **Infrastructure as Code**: Pulumi and Terraform for provisioning and managing cloud resources
 
-## 🛠️ Recent Projects
+## 🛠️ Projects
 
+- 🤖 **[datarobot-agent-skills](https://github.com/datarobot-oss/datarobot-agent-skills)**: skills that bring DataRobot platform capabilities to coding agents. I work on the CI/CD skills and the repo's review automation
 - 🔀 **[review-router](https://github.com/datarobot-oss/review-router)**: a GitHub Action that automates code review routing based on CODEOWNERS
-- ⚙️ **[dotfiles](https://github.com/andriykislitsyn/dotfiles)**: my shell, editor, and tooling setup
+- ⚙️ **[dotfiles](https://github.com/andriykislitsyn/dotfiles)**: my shell, Git, and Claude Code setup
 - 🧪 **[macuitest](https://github.com/andriykislitsyn/macuitest)**: a functional and UI testing framework for macOS applications
 
 ## ✍️ Writing
@@ -23,7 +24,7 @@ On **[Agentic Engineering](https://andriykislitsyn.github.io/agentic-engineering
 
 - **[How I set up Claude Code](https://andriykislitsyn.github.io/agentic-engineering/articles/how-i-set-up-claude-code/)**: permissions for hard stops, an output style for tone, CLAUDE.md for judgment, skills for depth
 
-Setup notes on the same site:
+Shell and Git setup notes:
 
 - **[Shell startup: from 5s to 140ms](https://andriykislitsyn.github.io/agentic-engineering/articles/zshrc-from-5s-to-140ms/)**: lazy-loading NVM and virtualenvwrapper, deduplicating compinit
 - **[Zsh setup with Oh My Zsh](https://andriykislitsyn.github.io/agentic-engineering/articles/zsh-setup-with-oh-my-zsh/)**: Powerlevel10k, plugins, and modern CLI replacements
