@@ -22,6 +22,8 @@ Staff Software Engineer @ **[DataRobot](https://github.com/datarobot)**, based i
 
 On **[Agentic Engineering](https://andriykislitsyn.github.io/agentic-engineering/)**, notes on building, testing, and shipping agent systems:
 
+- **[Review Router: the GitHub Action that learned to review](https://andriykislitsyn.github.io/agentic-engineering/articles/review-router/)**: CODEOWNERS routing, an AI reviewer built on Claude Code, and what's still unproven
+- **[RDS Postgres 12 to 16: what Blue/Green doesn't warn you about](https://andriykislitsyn.github.io/agentic-engineering/articles/rds-postgres-12-to-16/)**: from about $650 to about $165 a month, and every place the upgrade broke
 - **[How I set up Claude Code](https://andriykislitsyn.github.io/agentic-engineering/articles/how-i-set-up-claude-code/)**: permissions for hard stops, an output style for tone, CLAUDE.md for judgment, skills for depth
 
 Shell and Git setup notes:
