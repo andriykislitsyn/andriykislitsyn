@@ -22,8 +22,6 @@ Staff Software Engineer @ **[DataRobot](https://github.com/datarobot)**, based i
 
 On **[Agentic Engineering](https://andriykislitsyn.github.io/agentic-engineering/)**, notes on building, testing, and shipping agent systems:
 
-- **[Review Router: the GitHub Action that learned to review](https://andriykislitsyn.github.io/agentic-engineering/articles/review-router/)**: CODEOWNERS routing, an AI reviewer built on Claude Code, and what's still unproven
-- **[RDS Postgres 12 to 16: what Blue/Green doesn't warn you about](https://andriykislitsyn.github.io/agentic-engineering/articles/rds-postgres-12-to-16/)**: from about $650 to about $165 a month, and every place the upgrade broke
 - **[How I set up Claude Code](https://andriykislitsyn.github.io/agentic-engineering/articles/how-i-set-up-claude-code/)**: permissions for hard stops, an output style for tone, CLAUDE.md for judgment, skills for depth
 
 Shell and Git setup notes:
@@ -31,6 +29,11 @@ Shell and Git setup notes:
 - **[Shell startup: from 5s to 140ms](https://andriykislitsyn.github.io/agentic-engineering/articles/zshrc-from-5s-to-140ms/)**: lazy-loading NVM and virtualenvwrapper, deduplicating compinit
 - **[Zsh setup with Oh My Zsh](https://andriykislitsyn.github.io/agentic-engineering/articles/zsh-setup-with-oh-my-zsh/)**: Powerlevel10k, plugins, and modern CLI replacements
 - **[Signed Git commits with GPG](https://andriykislitsyn.github.io/agentic-engineering/articles/signed-git-commits/)**: why and how to sign every commit
+
+Field notes, stories from running real systems in production:
+
+- **[Review Router: the GitHub Action that learned to review](https://andriykislitsyn.github.io/agentic-engineering/articles/review-router/)**: CODEOWNERS routing, an AI reviewer built on Claude Code, and what's still unproven
+- **[RDS Postgres 12 to 16: what Blue/Green doesn't warn you about](https://andriykislitsyn.github.io/agentic-engineering/articles/rds-postgres-12-to-16/)**: from about $650 to about $165 a month, and every place the upgrade broke
 
 ## 📫 Let's Connect
 
